@@ -1,0 +1,105 @@
+.header{
+    background-color: #ffffff;
+    height: 100px;
+    margin-top: -8px;
+    border: 2px solid #cccccc;
+}
+
+.yourName{
+    width: 960px;
+    margin: 0 auto;
+    color: white;
+}
+
+h1, h2{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+.teal{
+    width: 200px;
+    background-color: #4aaaa5;
+    margin-left: 0;
+    height: 100px;
+    margin-top: 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: #777777;
+}
+
+p{
+    line-height: 2;
+    margin-top: -9px;
+}
+
+.links{
+    color: #777777;
+    font-size: 18px;
+    position: relative;
+    float: right;
+    top: -73px;
+    left: -480px;
+}
+
+.line1{
+    position: relative;
+    background-color: lightgray;
+    width: 1px;
+    height: 20px;
+    right: -25px;
+    top: -39px;
+}
+
+.line2{
+    position: relative;
+    background-color: lightgray;
+    width: 1px;
+    height: 20px;
+    right: -123px;
+    top: -77px;
+}
+
+body{
+    background-image: url(../images/interlaced.png); /* Background pattern from Toptal Subtle Patterns */
+    margin: 0;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.bio{
+    width: 910px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    color: #777777;
+    margin-top: 40px;
+    padding: 15px 25px 15px 25px;
+    border: 1px solid #cccccc;
+}
+
+#aboutMeTeal{
+    color: #4aaaa5;
+}
+
+.grayLine{
+    background-color: lightgray;
+    width: 900px;
+    height: 2px;
+    margin-left: 0;
+    margin-bottom: 30px;
+}
+
+.bioPic{
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+
+.footer{
+    background-color: #666666;
+    height: 50px;
+}
