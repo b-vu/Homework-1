@@ -97,10 +97,14 @@ body{
     top: -65px;
 }
 
+.trivia{
+    position: relative;
+}
+
 .rpg{
     position: absolute;
-    top: 262px;
-    left: 845px;
+    top: 28.10%;
+    left: 44%;
 }
 
 .trivia{
