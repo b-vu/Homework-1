@@ -11,7 +11,7 @@
 .white{
     background-color: #ffffff;
     height: 100px;
-    width: 100vw;
+    width: 100%;
     border-bottom: 2px solid #cccccc;
     z-index: -1;
     position: absolute;
