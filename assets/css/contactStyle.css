@@ -1,14 +1,23 @@
 .header{
     background-color: #ffffff;
     height: 100px;
-    margin-top: -8px;
-    border: 2px solid #cccccc;
+    border-bottom: 2px solid #cccccc;
+    color: white;
+    width: 960px;
+    margin: 0 auto 0 auto;
+    
 }
 
-.yourName{
-    width: 960px;
+.white{
+    background-color: #ffffff;
+    height: 100px;
+    width: 100%;
+    border-bottom: 2px solid #cccccc;
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
     margin: 0 auto;
-    color: white;
 }
 
 h1, h2{
@@ -111,6 +120,8 @@ input[type=submit] {
     bottom: 0;
     height: 50px;
     width: 100%;
+    margin: 0 auto;
+    min-width: 960px;
 }
 
 html{
