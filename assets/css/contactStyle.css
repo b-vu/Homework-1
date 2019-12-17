@@ -76,7 +76,7 @@ body{
 }
 
 input[type=text] {
-    width: 100%;
+    width: 99%;
     padding: 10px 5px;
     margin: 8px 0;
     display: inline-block;
@@ -87,7 +87,7 @@ input[type=text] {
 
 #message{
     height: 200px;
-    width: 100%;
+    width: 99%;
     padding: 5px 0;
     margin: 8px 0;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
