@@ -97,30 +97,14 @@ body{
     top: -65px;
 }
 
-.trivia{
-    position: relative;
+.row1{
+    display: inline-block;
+    margin-right: 8.1%;
 }
 
-.rpg{
-    position: absolute;
-    top: 28.10%;
-    left: 44%;
-}
-
-.trivia{
-    position: absolute;
-    top: 262px;
-    left: 1180px;
-}
-
-.rutgers{
-    position: relative;
-}
-
-.rps{
-    position: absolute;
-    top: 493px;
-    left: 845px;
+.row2{
+    display: inline-block;
+    margin-right: 8.1%;
 }
 
 .footer{
